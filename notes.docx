@@ -1,0 +1,10 @@
+Tetris coursework
+
+Bombs:
+- When you did a wrong/ bad move
+- When there is a hole but it is blocked
+
+Discard:
+- When you don't have enough time to think/ execute of a good move
+- When the tetromino is about to land in a bad place
+- When there is no good move and the next tetromino has a good move
